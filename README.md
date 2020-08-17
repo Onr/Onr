@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I am Ori 👋.
+I'm Currently a PhD student at the Department of Electrical Engineering, Technion
+My main field of study is - Image domain transfer.
+
+
 
 <!--
 **Onr/Onr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
