@@ -1,8 +1,8 @@
 ### Hi there I am Ori 👋.
 #### I'm Currently a PhD student at the Department of Electrical Engineering, Technion
-#### My main field of study is - Image domain transfer.
+#### My main field of study is - Image domain transfer. [like here][1]
 
-[![m2f](/m2f.PNG)][1]
+<!--[![m2f](/m2f.PNG)][1]-->
 
 
 <!--
