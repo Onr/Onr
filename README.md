@@ -2,7 +2,7 @@
 #### I'm Currently a PhD student at the Department of Electrical Engineering, Technion
 #### My main field of study is - Image domain transfer.
 
-[![m2f_gif](/m2f_gif.gif)][1]
+[![m2f_gif](/m2f.PNG)][1]
 
 
 <!--
