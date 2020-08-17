@@ -1,6 +1,6 @@
 ### Hi there I am Ori 👋.
-I'm Currently a PhD student at the Department of Electrical Engineering, Technion
-My main field of study is - Image domain transfer.
+#### I'm Currently a PhD student at the Department of Electrical Engineering, Technion
+#### My main field of study is - Image domain transfer.
 
 
 
