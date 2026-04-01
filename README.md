@@ -1,28 +1,31 @@
-### Hi there, I am Ori 👋  
-#### PhD in Electrical and Computer Engineering, Technion  
-#### My main fields of study are Computer Vision and Deep Learning
-- including image domain transfer — [like here][1].  
-#### I also work on anomaly detection and concept retrieval, developing methods for understanding rare events and high-level semantic structure in visual data:
-- **k‑NNN** (anomaly detection) — [Project link][2]  
-- **coret** (surrogate-based concept retrieval) — [Project link][3]
+### Hi, I’m Ori 👋  
+**PhD in Electrical and Computer Engineering, Technion**
 
-<!--[![m2f](/m2f.PNG)][1]-->
+My research focuses on **Computer Vision** and **Deep Learning**, with an emphasis on understanding and modeling the relationship between visual data and high-level semantic structure. I am particularly interested in developing methods for **capturing rare phenomena and uncovering meaningful structure in complex visual data**.
 
-<!--
-**Onr/Onr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work includes:
+- **GAN-based image domain transfer**, focusing on learning mappings between visual domains and capturing cross-domain correspondences — [project page](https://onr.github.io/Council_web/)  
 
-Here are some ideas to get you started:
+- **Anomaly detection**, where I study methods for identifying rare and unexpected patterns in high-dimensional visual data:  
+  - **k-NNN** — a framework for scalable and effective anomaly detection based on nearest-neighbor structures ([GitHub](https://github.com/Onr/knnn))  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Concept retrieval**, focusing on uncovering and querying latent semantic concepts:  
+  - **coret** — a surrogate-based approach for concept retrieval in complex visual representations ([GitHub](https://github.com/Onr/surrogate_concept_retrival))  
 
-[1]: https://onr.github.io/Council_web/  
-[2]: https://github.com/Onr/knnn  
-[3]: https://github.com/Onr/surrogate_concept_retrival
+More broadly, my research lies at the intersection of **representation learning**, **rare event modeling**, and **semantic interpretability** in visual systems.
+
+  <!--
+  **Onr/Onr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  Here are some ideas to get you started:
+  
+  - 🔭 I’m currently working on ...
+  - 🌱 I’m currently learning ...
+  - 👯 I’m looking to collaborate on ...
+  - 🤔 I’m looking for help with ...
+  - 💬 Ask me about ...
+  - 📫 How to reach me: ...
+  - 😄 Pronouns: ...
+  - ⚡ Fun fact: ...
+  -->
+  
