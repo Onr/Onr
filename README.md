@@ -1,6 +1,7 @@
 ### Hi there, I am Ori 👋  
 #### PhD in Electrical and Computer Engineering, Technion  
-#### My main fields of study are Computer Vision and Deep Learning, including image domain transfer — [like here][1].  
+#### My main fields of study are Computer Vision and Deep Learning
+- including image domain transfer — [like here][1].  
 #### I also work on anomaly detection and concept retrieval, developing methods for understanding rare events and high-level semantic structure in visual data:
 - **k‑NNN** (anomaly detection) — [Project link][2]  
 - **coret** (surrogate-based concept retrieval) — [Project link][3]
