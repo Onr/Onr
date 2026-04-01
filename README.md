@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 [1]: https://onr.github.io/Council_web/  
 [2]: https://github.com/Onr/knnn  
-[3]: https://github.com/Onr/coret
+[3]: https://github.com/Onr/surrogate_concept_retrival
